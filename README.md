@@ -1,3 +1,4 @@
+# A MODIFIED VERSION OF THE ORIGINAL PACKAGE - PLEASE DO NOT USE THIS FORK!  
 # Scrypt For Node
 
 [![Build Status](https://travis-ci.org/barrysteyn/node-scrypt.png?branch=master)](https://travis-ci.org/barrysteyn/node-scrypt)
